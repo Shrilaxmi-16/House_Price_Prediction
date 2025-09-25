@@ -3,7 +3,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-1.5-brightgreen) 
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12-purple) 
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-purple)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-1.2-orange)  
+![Streamlit](https://img.shields.io/badge/Streamlit-1.38-red)
+
 
 A **machine learning project** that predicts house prices based on various property attributes. Includes **data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and visualization of results**.  
 
