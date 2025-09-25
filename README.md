@@ -90,15 +90,13 @@ The app allows users to:
 
 
 ## How to Run
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Shrilaxmi-16/House_Price_Prediction.git
 
-  Install dependencies
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
-  Run the Streamlit app
-  streamlit run app.py
+   streamlit run app.py
 
 
 ## Conclusion
