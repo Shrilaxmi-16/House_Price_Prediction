@@ -85,7 +85,7 @@ The app allows users to:
 - Check feature importance rankings.  
 - Predict house prices by entering custom inputs.  
 
-🔗 **Live Demo:** [Streamlit App Link](https://your-streamlit-app-link)  
+🔗 **Live Demo:** [Streamlit App Link](https://housepriceprediction-16.streamlit.app/)  
 
 
 
