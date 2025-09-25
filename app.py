@@ -17,7 +17,7 @@ st.set_page_config(page_title="🏠 Housing Dashboard", layout="wide")
 # -------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("C:/Users/Admin/Downloads/archive (34)/Housing.csv")
+    df = pd.read_csv("Housing.csv")
     return df
 
 df = load_data()
@@ -189,3 +189,4 @@ elif menu == "Prediction":
             st.success(f"🏡 Predicted House Price: {prediction:,.2f}")
     else:
         st.error("Dataset must contain a 'price' column for prediction.")
+
