@@ -90,7 +90,7 @@ The app allows users to:
 
 
 ## How to Run
-Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/Shrilaxmi-16/House_Price_Prediction.git
 
