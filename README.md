@@ -11,9 +11,7 @@ A **machine learning project** that predicts house prices based on various prope
 
 - [Project Overview](#project-overview)  
 - [Dataset](#HousingDataset)  
-- [Exploratory Data Analysis](#exploratory-data-analysis)  
-- [Modeling](#modeling)  
-- [Results](#results)  
+- [Exploratory Data Analysis](#exploratory-data-analysis)   
 - [Tools & Libraries](#Tools&Libraries)
 - [Streamlit App](#StreamlitApp)
 - [How to Run](#how-to-run)  
@@ -93,18 +91,12 @@ The app allows users to:
    ```bash
    git clone https://github.com/Shrilaxmi-16/House_Price_Prediction.git
 
-2. To run the app locally:  
+  Install dependencies
+  pip install -r requirements.txt
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+  Run the Streamlit app
+  streamlit run app.py
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
 
 ## Conclusion
 
